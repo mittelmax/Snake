@@ -51,8 +51,6 @@ class Sprite:
             food.x_pos = random.randint(0, 19) * 40
             food.y_pos = random.randint(0, 14) * 40
 
-
-
 # Player
 playerx = 360
 playery = 280
