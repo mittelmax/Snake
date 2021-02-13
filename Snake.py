@@ -130,4 +130,4 @@ while running:
     snake.y_pos += y_change
     show_score(text_x, text_y)
 
-    pygame. display.update()
+    pygame.display.update()
