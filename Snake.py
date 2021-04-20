@@ -5,7 +5,7 @@ import math
 # Init Pygame
 pygame.init()
 
-# CLock
+# Clock
 clock = pygame.time.Clock()
 
 # Screen
